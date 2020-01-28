@@ -1,0 +1,19 @@
+body {
+    background-color: #f0fc46;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 100px;
+}
+
+h2 {
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 60px;
+}
+
+h4 {
+    font-family: 'Bungee Hairline', cursive; 
+    font-size: 80px;
+}
